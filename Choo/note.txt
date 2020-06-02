@@ -1,0 +1,1 @@
+﻿Server=(localdb)\\mssqllocaldb;Database=Choo;Integrated Security=True
